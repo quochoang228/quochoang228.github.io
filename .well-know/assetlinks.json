@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.viettel.aioapp",
+    "sha256_cert_fingerprints":
+    ["55:85:9C:E7:AA:10:30:84:9A:6C:0C:60:CD:75:C0:51:D9:A6:9B:E8:50:78:BA:BA:3C:68:35:B7:3A:05:C5:5B"]
+  }
+}]

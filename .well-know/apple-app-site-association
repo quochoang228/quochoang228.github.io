@@ -1,0 +1,11 @@
+{
+  "applinks": {
+      "apps": [],
+      "details": [
+      {
+        "appID": "AHLFL98F3M.com.viettel.aioapp",
+        "paths": ["*"]
+      }
+    ]
+  }
+}
